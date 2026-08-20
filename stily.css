@@ -33,8 +33,9 @@
             flex: 1 1 25%;
 
             flex-direction:column;
-            elign-items: center;
-            test-aling: center;
+            align-items: center;
+            text-align: center;
+
         }
 
         img {
